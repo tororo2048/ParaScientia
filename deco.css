@@ -1,9 +1,23 @@
 .menu{
-    font-size: 200%;
+    font-size: 2em;
 }
 
 .h{
-    font-size: 120%;
+    font-size: 1.2em;
+}
+
+.quote{
+    background-color: whitesmoke;
+    width: 85vx;
+}
+
+.table{
+    width: 85vx;
+
+}
+
+.h{
+    font-size: 1.2em;
 }
 
 .quote{
