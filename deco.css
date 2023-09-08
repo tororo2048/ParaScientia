@@ -18,8 +18,9 @@
 }
 
 .hyou{
+    font-size: 1em;
     border-spacing: 0px;
-    width: 1%;
+    width: 100%;
 }
 
 .hyou td{
