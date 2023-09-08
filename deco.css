@@ -1,5 +1,9 @@
 .menu{
-    font-size: 2em;
+    font-size: 200%;
+}
+
+.gray{
+    background-color: lightgray;
 }
 
 .h{
@@ -8,9 +12,40 @@
 
 .quote{
     background-color: whitesmoke;
+    padding: 1em 1em;
+    margin: 2em 0;
     width: 85vx;
 }
 
 .table{
-    width: 85vx;
+    border-spacing: 0px;
+    width: 95%;
+}
+
+.table td{
+    padding: 3px 7px;
+}
+
+.tab{
+    padding: 0.5em 0.5em;
+    border: solid 1px gray;
+}
+
+.box{
+    padding: 0.5em 0.5em;
+    margin: 1em 5em;
+    border-left: solid 10px gold;
+    background-color: lightyellow;
+}
+
+.columtitle{
+    background-color: azure;
+    margin: 1em 2em 0 2em;
+    padding: 0.2em 0;
+}
+
+.colum{
+    background-color: snow;
+    margin: 0 2em 1em 2em;
+    padding: 0.2em 1em;
 }
