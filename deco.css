@@ -27,6 +27,10 @@
     margin:1em 1em;
 }
 
+.table td, th{
+    font-size: 1em;
+}
+
 .tab{
     padding: 0.5em 0.5em;
     border: solid 1px gray;
