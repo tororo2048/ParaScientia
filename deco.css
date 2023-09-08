@@ -19,11 +19,12 @@
 
 .table{
     border-spacing: 0px;
-    width: 95%;
+    width: 100%;
 }
 
 .table td{
     padding: 3px 7px;
+    margin:1em 1em;
 }
 
 .tab{
